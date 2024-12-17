@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045866884220",
+    "project_id": "ultimacasita-c1edb",
+    "storage_bucket": "ultimacasita-c1edb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045866884220:android:8a6207bb1785e765deedf9",
+        "android_client_info": {
+          "package_name": "com.example.casita_en_llamas_ev4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXihxuray6wSawFH6jyR9EmdjpsGhuR_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
